@@ -97,6 +97,6 @@ function getTotalObtainedMarks(){
     });
     return totalObtainedMarks;
 }
-
+//
 
 
