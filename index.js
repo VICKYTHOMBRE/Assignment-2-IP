@@ -1,5 +1,5 @@
 const btnSubmit = document.getElementById("submit");
-const baseIDs = ["emiii","dsa","dbms","pcom","pcpf"];
+const baseIDs = ["ip","se","e-bis","admt","cns"];
 const passArray = [false,false,false,false,false];
 const resultRows = document.querySelectorAll(".result");
 const inputs = {};
